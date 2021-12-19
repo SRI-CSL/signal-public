@@ -10,6 +10,3 @@
 | LKML developer data | [![LKML developer data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](lkml_developer_from0820_0121.csv) |
 
 
-## ⚖️ License
-
-Signal-public is under the GPL3 License. See the [LICENSE](../LICENSE) file for the full license text.

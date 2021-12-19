@@ -9,7 +9,3 @@
 | dev2vec (on developer activities)  | [![dev2vec full](https://img.shields.io/badge/pkl-file-blue.svg)](dev2vec-model-activity.pkl) |
 | dev2vec (on prototypes) | [![LKML thread data](https://img.shields.io/badge/pkl-file-blue.svg)](dev2vec-model-prototype.pkl) |
 
-
-## ⚖️ License
-
-Signal-public is under the GPL3 License. See the [LICENSE](../LICENSE) file for the full license text.
