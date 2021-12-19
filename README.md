@@ -5,8 +5,6 @@
 
 <a href="https://www.python.org/"><img alt="PyTorch" src="https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue"></a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
-<a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/
-scikit-learn-e28743.svg"></a>
 <a href="https://pytorchlightning.ai/"><img alt="Open In Collab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 <a href="https://github.com/SRI-CSL/signal-public/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg"></a>
 </div>
