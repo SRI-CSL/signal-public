@@ -1,6 +1,6 @@
 # Click the badges below to access the notebooks
 
-# 🔖 SIGNAL tasks
+## 🔖 SIGNAL notebooks
 
 | Notebook    | Link |
 |-------------|------|
