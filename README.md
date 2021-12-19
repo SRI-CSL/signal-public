@@ -9,7 +9,7 @@
 <a href="https://github.com/SRI-CSL/signal-public/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg"></a>
 </div>
 
-## Description
+## ✨ Description
 SIGNAL's goal is to model socio-technical activity in OSS projects with such fidelity that you could feed it to a ML algorithm of your choice in order to highlight emergent developer influence, drifts in standards or wrong design choices that could potentially undermine the integrity of an OSS project.
 
 
@@ -24,7 +24,7 @@ SIGNAL's goal is to model socio-technical activity in OSS projects with such fid
 | Data in SIGNAL | [![Open In GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./data/) |
 
 
-### Contributions
+### 🤝 Contributions
 
 We have a [set of guidelines](CONTRIBUTING.md) for contributing to `signal-public`.  These are guidelines, not rules. Use your best judgment, and feel free
 to propose  changes to this document in a pull request.
