@@ -24,6 +24,7 @@ SIGNAL's goal is to model socio-technical activity in OSS projects with such fid
 | Data | [![Open In GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./data/) |
 | Models | [![Open In GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./models/) |
 
+![dev2vec](colab/figures/dev2vec.png)
 
 ### 🤝 Contributions
 
