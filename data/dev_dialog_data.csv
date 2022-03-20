@@ -1,0 +1,151 @@
+text,persuasion,persuasion_id
+Are you involved with kernel modifications?,task-related-inquiry,0
+Do you currently implicit declaration of function in your code?,task-related-inquiry,0
+"I would rather avoid breeding chain includes; sure, mutex.h and wait.h are extremely common anyway.",credibility-appeal,1
+The kernel needs Rust support,logical-appeal,2
+Add a CPUFreq driver which utilizes a fine grain processor performance frequency control range instead of legacy performance levels.,task-related-inquiry,0
+"I would actually love to have distro Kconfig-files, where the distribution would be able to say these are the minimums I require to work.",personal-related-inquiry,3
+Do you think you can add following tag as appropriate if you fix the issue?,task-related-inquiry,0
+Are you familiar with F14 (iirc) started using TMPFS and TMPFS_POSIX_ACL/XATTR for dev?,source-related-inquiry,4
+"Using the new AMD P-State method and the kernel governors (schedutil, ondemand) to manage the frequency update is the most appropriate bridge between AMD Zen based hardware processor and Linux kernel,",credibility-appeal,1
+It can use X86_FEATURE_CPPC feature flag to distinguish the different types.,donation-information,5
+We can put restrictions on the pathname passed into this helper.,donation-information,5
+"In particular, Pathname resolution is not locking-agnostic.",foot-in-the-door,6
+"Yes, don't do it, unless you really want a lot of user-triggerable deadlocks.",foot-in-the-door,6
+"In addition, we can check pathname to be not containing any dot or dotdot, so the resolved path will end up inside bpffs",donation-information,5
+We can avoid pathname resolution entirely.,donation-information,5
+"With these restrictions, we call vfs_mkdir() to create directories.",credibility-appeal,1
+Microsoft begged people to stop using and migrate away from over 20 years ago.,credibility-appeal,1
+There is just so much time you can spend on something that was declared obsolete 20 years ago.,credibility-appeal,1
+APICv doesn't do IPI virtualization.,credibility-appeal,1
+"You can't disable it for L2, unless you are willing to emulate it in software.",credibility-appeal,1
+Your integrity and trustworthiness will make us succeed without any risk.,credibility-appeal,1
+traces of this process on different processors should be also recorded when user processes are run on different processors.,logical-appeal,2
+"if the pathname passed to these functions will have you walk through the parent directory, you would get screwed",logical-appeal,2
+You can explicitly require the parameter dirfd to be in bpffs (you can verify).,donation-information,5
+we can enforce the dirfd to be in bpffs and pathname to consist of only alphabet and numbers.,donation-information,5
+Ya.. you could specify a kvm fd at this point and it would have some other advantages (e.g. skip notifier).,logical-appeal,2
+AMD P-State is the AMD CPU performance scaling driver that introduces a new CPU frequency control mechanism on AMD Zen based CPU series in Linux kernel.,credibility-appeal,1
+In which contexts can those be called?,source-related-inquiry,4
+It looks like a generic issue in dynamically toggling APICv scheme.,credibility-appeal,1
+"This may also work with different model, similar to how you pointed me to Hans as an owner of Bay Trail platform who is acquinted with how its i2c semaphore is working.",emotion-appeal,7
+I just thought it is not good to leave you alone with a new module which you cannot actually test and don't have deep insight about how PSP-x86 communications works.,emotion-appeal,7
+"There are headers that guaranteed to be included by others, otherwise it will be an implicit dependency which is not good in cases of generic headers, such as types.h.",credibility-appeal,1
+As in all above cases - considering current layout of members and their sizes dropping `__packed` will not results in any errors.,credibility-appeal,1
+"PSP expects all members os structs within shared buffers to be byte-aligned, that's why I've added this attributes to be on the safe side.",credibility-appeal,1
+you can add a new MAINTAINERS database entry where you can put yourself for that file even as a maintainer.,foot-in-the-door,6
+Eventually for me it made some sense since I have a platform equipped with AMD Cezanne SoC and I will be able to review changes in i2c-designware-amdpsp.c .,emotion-appeal,7
+"Yeah, so the chances of accepting this patch are very low, but you and I know that Rust support is needed.",emotion-appeal,7
+"Yes of course, especially when you have to consider also 3rd parties, like an external  programmer, and who cares the order stored in the actual flash memory as long as the data read is correct?",task-related-inquiry,0
+Yeah so stuff like this is why I'd be much happier if this could join our iommfd project so we can have clean modeling of the multiple iommu_domains.,self-modeling,8
+"s390 is doing it a bit different, but as we've seen, not fundamentally so compard to ARM and Intel IOMMU's with HW nesting.",credibility-appeal,1
+"Well, quite alot has been done already and I think we are getting close to having something that can start moving forward, but yes it will not be tomorrow.",credibility-appeal,1
+"As for functionality problems, there are several ways to improve upon C too, though it is harder to show data on that.",credibility-appeal,1
+"Nobody is suggesting to remove ""all UB"" in that sense or to use VM-supported languages.",credibility-appeal,1
+"Anything from a place where one docks ships to some other kinds of 'terminals' can mean ""port""",foot-in-the-door,6
+"if we choose to disable APICv instead of making APIC ID read-only, although it can work perfectly for VMX IPIv, it effectively makes future cleanup to AVIC impossible.",logical-appeal,2
+"Next time you hear that, can you let me know?  I haven't heard of any issues since 3.4 IIRC.",foot-in-the-door,6
+HMM is helping us integrate the GPU memory.,credibility-appeal,1
+"Have you heard about the kernel no-regression rule? ",source-related-inquiry,4
+Rust is a systems programming language that brings several key advantages over C in the context of the Linux kernel,credibility-appeal,1
+Given the track record of this ioctl I very much doubt anyone would depend on it.,credibility-appeal,1
+"But look around the kernel and see how many times you can find core filemap.c code duplicated elsewhere... Anyways, Willy's work is going to let us delete all that crap.",emotion-appeal,7
+"Using linux-next is not absolute necessary, but will benefit everyone.",logical-appeal,2
+"Yes, tracing just the instructions won't get you where you want to be if you are going through this approach.",logical-appeal,2
+But it still makes the ripple effect in many sub systems.,logical-appeal,2
+"slab can go up to something like 128k, but there's still a hard cap on allocation size with kmalloc().",credibility-appeal,1
+"Even in the non-default ""vsyscall=native"" case, the vsyscall pages just contains syscalls.",credibility-appeal,1
+"Just rely on the ""legacy vsyscall emulation""",credibility-appeal,1
+We will gladly support testing your fix in case help is needed.,donation-information,5
+"Obviously, you could then choose any version including the first one.",donation-information,5
+"I can have 6 terminals visible at one time, and that's because I have them three wide.",donation-information,5
+No problem but I need to understand what you want a little bit more because I thought this patchset is already step by step.,foot-in-the-door,6
+But this patch makes a huge difference for systems like Samsung 850 Pro.,foot-in-the-door,6
+"I'd love to tell you that things are calming down, and we're shrinking, but that would be a lie.",task-related-inquiry,0
+"It's not like this is a huge rc, but it's definitely bigger than the previous rc's were.",credibility-appeal,1
+test ntfs3 in linux-next everytime new linux-next tag comes up.,logical-appeal,2
+If you were to integrate this commit you would be making a huge impact on the performance of the target workloads,logical-appeal,2
+"And totally up to you, but I think you can replace the memcpy() above with a direct assignment, if you want: dst_svm->sev_es = src_svm->sev_es;",donation-information,5
+The newly introduced module parameter can be used to choose between devfreq monitoring and internal interrupts without modifying the Device Tree.,donation-information,5
+"It could be mitigated as Sylwester described with not only one type of interrupt, but another, which could 'observe' also other information type in the counters and fire.",donation-information,5
+Before you say no would you like to hear more of a reason for this simplification?,task-related-inquiry,0
+"Linux is killing Netware right now, and will easiy assimilate over 1.5 million nodes of Netware next year.",emotion-appeal,7
+In 2008 the first TSC surfaced which was not affected by C-States,emotion-appeal,7
+This commit can address these problems,logical-appeal,2
+We only use the hweight based usage ratio to calculate the new hweight_inuse of the iocg to decide if this iocg can donate some surplus vtime.,logical-appeal,2
+"Many drivers can be used on different hardware, some of which may require pinmuxing, while others don't. ",logical-appeal,2
+Dont you agree,task-related-inquiry,0
+IN 2018 alone 240 patches were reportedly accepted or acknowledged in the kernel.,emotion-appeal,7
+YOu patch is going to help address these problems in iowait.,logical-appeal,2
+"Although my (lack of) response is indistinguishable from a conspiracy to keep KSM out of the kernel, I beg to assure you that's not the case.",credibility-appeal,1
+"Thanks for you explanation, it's very professional.",credibility-appeal,1
+I just need to know what interface you're envisioning for this.,logical-appeal,2
+My contributions to the kernel will optimize the performance of the ARM64 SMMU driver,donation-information,5
+Have you heard about Intel MID line of SoCs?,source-related-inquiry,4
+hardware-security@kernel.org is a private list of security officers who will help you to coordinate an issue according to our documented process.,credibility-appeal,1
+"So last weekend, I thought I'd be focusing mainly on networking and gpu fixes",credibility-appeal,1
+That heavy-handed approach should be replaced with something more subtle and specifically targeted at RT and DL tasks.,emotion-appeal,7
+PCI GPUs may be broken on some other platforms,emotion-appeal,7
+My gratitude to Donald who has been helping test MGLRU since v2.,credibility-appeal,1
+Several people have been sending bad patches to fix compiler warnings in vmcore recently.,credibility-appeal,1
+I wish we can implemented as you suggested but it is more complicated than expected.,credibility-appeal,1
+"true, but it's not the right way to test.",emotion-appeal,7
+"Correct, but it's been cherry-picked into the clang 14.0.0 branch, which is scheduled for release in March.",emotion-appeal,7
+I did not read carefully what I committed and now two small corrections are required,self-modeling,8
+"In general, I think it could be considered as a complement to virtio.",foot-in-the-door,6
+"Freeing large numbers of namespaces in quick succession can result in a bottleneck on the synchronize_rcu() invoked from kern_unmount(). ",logical-appeal,2
+The review is needed because Moritz asked for the changes v8 here,credibility-appeal,1
+"Right, this is completly transparent to the sound device. ",credibility-appeal,1
+"I think you sell people short, especially since we are not anywhere close to the limit of single threaded performance.",logical-appeal,2
+"From what I can see, there is no advancement here, as of now.",logical-appeal,2
+"I'm still not sure about such a 'pskb_pull' failure, whose reasons may be complex, such as no memory or packet length too small.",logical-appeal,2
+And these statements are not summaries.,logical-appeal,2
+"When they say that the devil is in the details, they are trying to tell you that the details MATTER.",logical-appeal,2
+Yes I like how they are clear about their financial reports and They are a big organization,credibility-appeal,1
+"Yes, they do, I see plenty of cases where the page cache works just fine because it is still faster than most storage.",credibility-appeal,1
+"Same here, this should not be needed if you put it in a .h file correctly. ",logical-appeal,2
+we will hide some of the members of the iio_dev structure (to prevent drivers from accessing them directly),credibility-appeal,1
+"Yes, they are different on protocol level, but on both you transfer blocks of data from/to a slave device which usually can be addressed. ",credibility-appeal,1
+"Hi, I'd like to clarify that I am replying here in my personal capacity, and not on behalf of the TAB or anyone else.",self-modeling,8
+"Exactly, I also like how there are HITs which encourage you to add.",self-modeling,8
+"PnP function is not mandatory for me, disabling it makes me happy.",self-modeling,8
+"swapping, dirty page caching, have many options or can even be disabled completely.",donation-information,5
+"You can directly interface with the ACPI GSI layer for that, without any need to mess with the GICv3 internals.",donation-information,5
+I sure will.,self-modeling,8
+I did it in the past.,self-modeling,8
+and surprisingly my productivity did not even change,self-modeling,8
+It would go a long way towards helping reviewers understand the motivation if it is to speed up boot and stash away clk configuration across resets.,credibility-appeal,1
+"For instance, struct page can be a type for (un)lock_page().",emotion-appeal,7
+"When one of the FSF execs, worriedly wrote to me after reading about a discussion I was allegedly having with Linus on behalf of the FSF",emotion-appeal,7
+"You can get a TSC, even if you can't even guarantee a timer usable for delays.",foot-in-the-door,6
+"Yes, you can ensure that numa and normal balancers use the same view of the state of the system",logical-appeal,2
+Do you have a stable branch with the for_each_vma() iterator?,personal-related-inquiry,3
+Does this change have any other advantage than silencing the warning?,personal-related-inquiry,3
+What would you suggest as a way of instructing the compiler to emit the conditional branch that we are looking for?,task-related-inquiry,0
+SoCs are the future and they are expected to use backwards compatible registers.,logical-appeal,2
+"Yes, Hope you aware of 15 regressions in linux-mainline.",emotion-appeal,7
+"Hello, are you interested in hacking on EMEV2 in general?",source-related-inquiry,4
+"Here is their website, URL",credibility-appeal,1
+"For instance, I have questions around how should such a config interact with randconfigs and allconfigs.",emotion-appeal,7
+You choose the location of the drivers.,credibility-appeal,1
+"No,but I want to see patches that make the kernel reading experience worse for me and likely for the vast majority of people,",self-modeling,8
+Research team will help FLOSS ecosystems have healthy and sustainable development.,donation-information,5
+"Cool, I also agree to get this patch merged",self-modeling,8
+"Well, if you want to collect errors and analyze patterns in order to detect hw going bad, you're probably better off disabling the CEC",self-modeling,8
+"Agreed, cores from deep sleep for that very small durations.",foot-in-the-door,6
+Do you have a time estimation in regards to when STMicro may start to benefit from this change?,personal-related-inquiry,3
+Have you ever heard of emergent properties?,source-related-inquiry,4
+"Some systems have in-band presence detection disabled for hot-plug PCI ",credibility-appeal,1
+kernel subsystems to provide a way for external code to (safely),credibility-appeal,1
+they are so central to the kernel,credibility-appeal,1
+"They have to recompile the kernel if there is no module parameter to do it. ",credibility-appeal,1
+"I do not know this extensively but shouldn't it be much more easier to transfer files from one device to another? ",credibility-appeal,1
+the delay blocks are also involved in the tuning sequence.,credibility-appeal,1
+Have you ever successfully bound a virtio device via DT?,task-related-inquiry,0
+anything should have a BoF at the KS.,logical-appeal,2
+"86% of changes can go directly to kvm_vcpu_block() when handling the case where userspace ",donation-information,5
+I have in the past.,self-modeling,8
+"I am supposed to close the merge window today, and honestly, I want _something_ to happen about the getrandom()",donation-information,5
+it appears that a structure of type mm_struct or vm_area_struct is corrupted,credibility-appeal,1
+The information is coming from from platform firmware,donation-information,5
+"Also, to prevent the executable involved in the attack from being respawned by a supervisor, and thus prevent a brute force attack",credibility-appeal,1
