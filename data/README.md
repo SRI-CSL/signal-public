@@ -4,13 +4,13 @@
 
 | Data    | Link |
 |-------------|------|
-| LKML raw data  | [![LKML raw data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/colabs/lkml-data-curation.ipynb) |
-| LKML processed data  | [![LKML processed data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/colabs/lkml-data-curation.ipynb) |
-| LKML thread data | [![LKML thread data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/colabs/activity-roles-detection.ipynb) |
+| LKML raw data  | [![LKML raw data](https://img.shields.io/badge/zip-082020&#8211;012021-blue.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/data/lkmlByEmail.csv.zip) |
+| LKML emails cleaned data  | [![LKML processed data](https://img.shields.io/badge/zip-082020&#8211;012021-blue.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/data/lkmlByEmail_emails_processed.csv.zip) |
+| LKML email threads recovered data | [![LKML thread data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/data/lkmlByEmail_threads_processed.csv) |
 | LKML developer data | [![LKML developer data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](lkml_developer_from0820_0121.csv) |
-| LKML relabeld developer data | [![LKML relabeled developer data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](activity_triplets_V1_02182022.csv) |
-| P4G persuasive dialog data | [![P4G persuasive dialog data](https://img.shields.io/badge/csv-01262021-blue.svg)](dialog_data.csv) |
-| LKML persuasive dialog data | [![LKML persuasive dialog data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](dev_dialog_data.csv) |
+| LKML relabeled developer data | [![LKML relabeled developer data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](activity_triplets_V1_02182022.csv) |
+| P4G general persuasive dialogs data | [![P4G general persuasive dialogs data](https://img.shields.io/badge/csv-01262021-blue.svg)](dialog_data.csv) |
+| LKML persuasive developer dialogs data | [![LKML persuasive developer dialogs data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](dev_dialog_data.csv) |
 
 </br></br>
 This project is under the GPL3 License. 
