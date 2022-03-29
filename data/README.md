@@ -8,6 +8,7 @@
 | LKML emails cleaned data  | [![LKML processed data](https://img.shields.io/badge/zip-082020&#8211;012021-blue.svg)](lkmlByEmail_emails_processed.csv.zip) |
 | LKML email threads recovered data | [![LKML thread data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](lkmlByEmail_threads_processed.csv) |
 | LKML developer activity data | [![LKML developer activity data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](raw_developer_activity.csv) |
+| LKML developer activity and roles data | [![LKML developer activity and roles data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](developer_activity_and_roles.csv) |
 | LKML developer data | [![LKML developer data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](lkml_developer_from0820_0121.csv) |
 | LKML relabeled developer data | [![LKML relabeled developer data](https://img.shields.io/badge/csv-082020&#8211;012021-blue.svg)](activity_triplets_V1_02182022.csv) |
 | P4G general persuasive dialogs data | [![P4G general persuasive dialogs data](https://img.shields.io/badge/csv-01262021-blue.svg)](dialog_data.csv) |
