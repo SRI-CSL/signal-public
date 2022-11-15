@@ -23,6 +23,7 @@ SIGNAL's goal is to model socio-technical activity in OSS projects with such fid
 | Notebooks | [![Open on GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./colabs/) |
 | Data | [![Open In GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./data/) |
 | Models | [![Open In GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./models/) |
+| Demo | [![Open In GitHub](https://img.shields.io/badge/Open%20in%20GitHub-%23121011.svg?logo=github&logoColor=white)](./demo/) |
 
 
 ### 🤝 Contributions
@@ -34,4 +35,3 @@ to propose  changes to this document in a pull request.
 ## ⚖️ License
 
 This project is under the GPL3 License. See the [LICENSE](https://github.com/SRI-CSL/signal-public/blob/main/LICENSE) file for the full license text.
-
