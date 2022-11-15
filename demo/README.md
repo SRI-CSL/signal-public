@@ -7,7 +7,7 @@
 * **Username:** `demo`
 * **Password:** `s!gn4ld3m0`
 
-&#128680; There credentials will expire on **November 17, 2022**.
+&#128680; These credentials will expire on **November 17, 2022**.
 
 ## &#128278; SIGNAL Demo Notebooks
 
