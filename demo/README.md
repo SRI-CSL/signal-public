@@ -14,6 +14,7 @@
 | Notebook    | Link |
 |-------------|------|
 | Installation and Dashboard Visualization  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/01_installation_and_dashboard.ipynb) |
+| Activity and Role Detection in LKML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/02_activity_roles_detection.ipynb) |
 
 ## License
 
