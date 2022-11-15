@@ -16,10 +16,10 @@
 | Installation and Dashboard Visualization  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/01_installation_and_dashboard.ipynb) |
 | Activity and Role Detection in LKML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/02_activity_roles_detection.ipynb) |
 
-## &#128232; Contact
+## &#128233; Contact
 
 For inquiries regarding SIGNAL, please contact Dr. Huascar Sanchez at [huascar.sanchez@sri.com](mailto:huascar.sanchez@sri.com).
 
-## License
+## &#128221; License
 
 This project is under the GPL3 License. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for the full license text.
