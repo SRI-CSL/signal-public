@@ -2,13 +2,14 @@
 
 **In support of DARPA AIE Hybrid AI to Protect Integrity of Open-Source Code (SocialCyber)**
 
-## Access Credentials
+## &#128272; Access Credentials
 
 * **Username:** `demo`
+* **Password:** `s!gn4ld3m0`
 
-## SIGNAL Demo Notebooks
+&#128680; There credentials will expire on **November 17, 2022**.
 
-## 🔖 SIGNAL notebooks
+## &#128278; SIGNAL Demo Notebooks
 
 | Notebook    | Link |
 |-------------|------|
