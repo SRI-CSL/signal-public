@@ -16,6 +16,7 @@
 | Installation and Dashboard Visualization  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/01_installation_and_dashboard.ipynb) |
 | Activity and Role Detection in LKML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/02_activity_roles_detection.ipynb) |
 | LKML Activity Context Evolution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/03_activity_evolution_trajectory_aw2v.ipynb) |
+| Code Landmarks Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/04_code_landmarks_detection.ipynb) |
 
 ## &#128233; Contact
 
