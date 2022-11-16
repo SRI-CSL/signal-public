@@ -1,4 +1,4 @@
-# Demo Structure
+# &#128302; Demo Structure
 
 These Notebooks highlight the SIGNAL API and can be opened on Google Colab. This demonstration
 covers multiple scenarios.  The first scenario familiarizes the audience with its
