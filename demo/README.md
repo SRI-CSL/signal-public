@@ -9,7 +9,7 @@ features of SIGNAL, all in the context  of the original Linux Kernel use cases.
 
 **In support of DARPA AIE Hybrid AI to Protect Integrity of Open-Source Code ([SocialCyber](https://www.darpa.mil/program/hybrid-ai-to-protect-integrity-of-open-source-code))**
 
-## &#128278; SIGNAL Demo Notebooks
+## &#128278; Notebooks
 
 | Notebook    | Link |
 |-------------|------|
