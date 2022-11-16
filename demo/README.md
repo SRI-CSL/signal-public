@@ -1,4 +1,11 @@
-# **S**oftware **I**ntrospection for Sig**n**aling Emergent Cyber-Soci**al** Operations (SIGNAL)
+# SIGNAL API’s demo
+
+## Demo Structure
+
+These Notebooks highlight the SIGNAL API and can be opened on Google Colab. This demonstration
+covers multiple scenarios.  The first scenario familiarizes the audience with its
+installation and common functionality (first notebook). Then, it delves into specific
+features of SIGNAL, all in the context  of the original Linux Kernel use cases.
 
 **In support of DARPA AIE Hybrid AI to Protect Integrity of Open-Source Code ([SocialCyber](https://www.darpa.mil/program/hybrid-ai-to-protect-integrity-of-open-source-code))**
 
