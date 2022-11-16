@@ -2,13 +2,6 @@
 
 **In support of DARPA AIE Hybrid AI to Protect Integrity of Open-Source Code ([SocialCyber](https://www.darpa.mil/program/hybrid-ai-to-protect-integrity-of-open-source-code))**
 
-## &#128272; Access Credentials
-
-* **Username:** `demo`
-* **Password:** `s!gn4ld3m0`
-
-&#128680; These credentials will expire on **November 17, 2022**.
-
 ## &#128278; SIGNAL Demo Notebooks
 
 | Notebook    | Link |
@@ -17,10 +10,6 @@
 | Activity and Role Detection in LKML | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/02_activity_roles_detection.ipynb) |
 | LKML Activity Context Evolution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/03_activity_evolution_trajectory_aw2v.ipynb) |
 | Code Landmarks Detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/demo/04_code_landmarks_detection.ipynb) |
-
-## &#128233; Contact
-
-For inquiries regarding SIGNAL, please contact Dr. Huascar Sanchez at [huascar.sanchez@sri.com](mailto:huascar.sanchez@sri.com).
 
 ## &#128221; License
 
