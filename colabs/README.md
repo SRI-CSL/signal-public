@@ -11,5 +11,4 @@
 | Developer activities evolution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SRI-CSL/signal-public/blob/main/colabs/activity_evolution_trajectory_aw2v.ipynb) |
 
 </br></br>
-This project is under the GPL3 License. 
-See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for the full license text.
+This project is under the GPL3 License. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for the full license text.

@@ -10,6 +10,7 @@
 </div>
 
 ## 🔮 Vision
+
 SIGNAL's goal is to model socio-technical activity in OSS projects with such fidelity that you could feed it to a ML algorithm of your choice in order to highlight emergent developer influence, drifts in standards or wrong design choices that could potentially undermine the integrity of an OSS project.
 
 
